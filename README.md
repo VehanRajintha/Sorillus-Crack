@@ -27,6 +27,10 @@ Sorillus comes packed with powerful features that allow you to have extensive co
 
 ## Getting Started 🚀📝
 
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
+    alt="Get it on Mediafire"
+    height="80">](https://github.com/vfsfitvnm/ViMusic/releases/latest)
+
 
 
 
